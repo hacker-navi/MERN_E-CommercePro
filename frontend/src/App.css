@@ -1,0 +1,49 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-lg);
+}
+
+.error {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+  color: var(--color-error);
+  font-size: var(--font-size-lg);
+}
+
+/* React Toastify Customization */
+.Toastify__toast {
+  font-family: var(--font-family-base);
+  border-radius: var(--radius-base);
+}
+
+.Toastify__toast--success {
+  background: var(--color-success);
+}
+
+.Toastify__toast--error {
+  background: var(--color-error);
+}
+
+.Toastify__toast--warning {
+  background: var(--color-warning);
+}
+
+.Toastify__toast--info {
+  background: var(--color-info);
+}
