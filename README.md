@@ -1,3 +1,4 @@
+
 # NavMall (MERN) — E‑Commerce
 
 NavMall is a full-stack MERN (MongoDB, Express, React, Node) e-commerce example project with user authentication, product management, and order processing. It includes a backend API and a React frontend suitable for local development and learning.
@@ -36,6 +37,10 @@ NODE_ENV=development
 ```
 
 Replace `your_mongo_connection_string` and `your_jwt_secret` with secure values.
+
+##Demo Video
+
+https://github.com/user-attachments/assets/458d8a1d-f714-4734-8f51-ecf632f77554
 
 ## Backend — Setup & Run
 
