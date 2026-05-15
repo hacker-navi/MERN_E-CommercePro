@@ -1,0 +1,50 @@
+# Node modules
+**/node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+logs/
+
+# Build / output
+**/dist/
+**/build/
+**/.cache/
+**/out/
+coverage/
+.nyc_output/
+
+# Environment
+.env
+.env.*.local
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs / editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Package manager / tools
+.pnp/
+.pnp.js
+.yarn-integrity
+.yarncache/
+.pnpm-debug.log
+
+# Misc
+*.tgz
+*.log
+*.sqlite
+*.sqlite3
+*.pid 
