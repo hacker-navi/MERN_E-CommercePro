@@ -90,12 +90,5 @@ Explore `backend/routes/` for a complete list and request/response shapes.
 - Server entry point: `backend/server.js`.
 - Frontend API utilities are in `frontend/src/utils/api.jsx`.
 
-## Contributing
-Contributions and fixes are welcome — open an issue or submit a pull request.
-
-## License
-This project is provided as-is. Add a license file if you intend to reuse or publish it.
-
----
-
-If you'd like, I can: run tests, add a `contributing.md`, or redact sensitive data from `backend/.env` before you publish this repo.
+## Deploment Live Link
+https://navmall.vercel.app/
