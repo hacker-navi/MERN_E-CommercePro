@@ -1,3 +1,4 @@
+
 # NavMall (MERN) — E‑Commerce
 
 NavMall is a full-stack MERN (MongoDB, Express, React, Node) e-commerce example project with user authentication, product management, and order processing. It includes a backend API and a React frontend suitable for local development and learning.
@@ -36,6 +37,10 @@ NODE_ENV=development
 ```
 
 Replace `your_mongo_connection_string` and `your_jwt_secret` with secure values.
+
+## Demo Video
+
+https://github.com/user-attachments/assets/458d8a1d-f714-4734-8f51-ecf632f77554
 
 ## Backend — Setup & Run
 
@@ -85,5 +90,12 @@ Explore `backend/routes/` for a complete list and request/response shapes.
 - Server entry point: `backend/server.js`.
 - Frontend API utilities are in `frontend/src/utils/api.jsx`.
 
-## Deployment Live Link
-https://navmall.vercel.app/
+## Contributing
+Contributions and fixes are welcome — open an issue or submit a pull request.
+
+## License
+This project is provided as-is. Add a license file if you intend to reuse or publish it.
+
+---
+
+If you'd like, I can: run tests, add a `contributing.md`, or redact sensitive data from `backend/.env` before you publish this repo.
